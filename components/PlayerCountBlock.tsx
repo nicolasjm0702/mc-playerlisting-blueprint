@@ -65,7 +65,7 @@ export default () => {
                     return (
                         <span className="text-gray-50">
                             {status.players}{" "}
-                            <span className="text-gray-300 text-[70%]">
+                            <span className="text-gray-300 text-[70%] select-none">
                                 / {status.max}
                             </span>
                         </span>
