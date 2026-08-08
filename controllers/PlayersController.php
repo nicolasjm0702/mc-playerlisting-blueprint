@@ -1,6 +1,6 @@
 <?php
 
-namespace Pterodactyl\BlueprintFramework\Extensions\playerlisting;
+namespace Pterodactyl\BlueprintFramework\Extensions\mcsimpleplayerlisting;
 
 use Illuminate\Http\JsonResponse;
 use Pterodactyl\Models\Server;

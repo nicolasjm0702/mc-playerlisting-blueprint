@@ -32,7 +32,7 @@ export default () => {
         let cancelled = false;
         const fetchStatus = () => {
             http.get(
-                `/api/client/extensions/playerlisting/servers/${uuid}/players`,
+                `/api/client/extensions/mcsimpleplayerlisting/servers/${uuid}/players`,
             )
                 .then(({ data }) => !cancelled && setStatus(data))
                 .catch((error) => {
