@@ -1,6 +1,6 @@
 info:
   name: "Player Listing"
-  identifier: "mc-simple-playerlisting"
+  identifier: "mcsimpleplayerlisting"
   description: "Shows connected/max Minecraft players below Network (Outbound) on the server console."
   version: "1.0"
   target: "beta-2026-01"
